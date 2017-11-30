@@ -6,8 +6,8 @@ github(tkama/cesium_japanese_info)にも公開中。
 変更・修正依頼が御座いましたらqiitaのフォームやPull requestsを送って下さい。
 
 Qiitaには関連する２つのタグが登録されています
-　Cesium : https://qiita.com/tags/cesium
-　CZML : https://qiita.com/tags/czml
+ - cesium : https://qiita.com/tags/cesium
+ - CZML : https://qiita.com/tags/czml
 
 # 導入・チュートリアル
 
