@@ -65,6 +65,9 @@ Qiitaには関連する２つのタグが登録されています
 #### [エクセルに座標を入力するだけでCesiumのラインを引くツール(自己満)](https://qiita.com/nishi_bayashi/items/a01e884bd7e427165697)
  - @nishi_bayashi 様
  
+#### [Cesiumで動的にオブジェクトを追加する（見せかけ）](https://qiita.com/code_monkey/items/e1a3f6c48cbda3fa0e72)
+ - @code_monkey 様
+
 #### [jsdoでヒートマップ](https://qiita.com/ohisama@github/items/4fb498363d46c8a4c4a9)
  - @ohisama@github 様 
  
