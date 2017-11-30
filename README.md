@@ -64,7 +64,10 @@ Qiitaには関連する２つのタグが登録されています
 
 #### [エクセルに座標を入力するだけでCesiumのラインを引くツール(自己満)](https://qiita.com/nishi_bayashi/items/a01e884bd7e427165697)
  - @nishi_bayashi 様
-
+ 
+#### [jsdoでヒートマップ](https://qiita.com/ohisama@github/items/4fb498363d46c8a4c4a9)
+ - @ohisama@github 様 
+ 
 ## CZML関連
 
 ####  [CZML入門](https://gis-oer.github.io/gitbook/book/GIS%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E6%95%99%E6%9D%90/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E6%B4%BB%E7%94%A8/CZML/CZML.html)
@@ -96,9 +99,6 @@ Qiitaには関連する２つのタグが登録されています
 
 #### [sicket.ioでcesium](https://qiita.com/hawaii_hahaha/items/80d45460e2257c77aa10)
  - @hawaii_hahaha 様
-
-#### [jsdoでヒートマップ](https://qiita.com/ohisama@github/items/4fb498363d46c8a4c4a9)
- - @ohisama@github 様 
 
 # Cesiumを活用した日本語Webサイト
 #### [台風リアルタイム・ウォッチャー](https://typhoon.mapping.jp/2014t08.html)
