@@ -46,7 +46,7 @@ Qiitaには関連する２つのタグが登録されています
 
 #### [地理院タイルを用いたサイト構築サンプル集](http://maps.gsi.go.jp/development/sample.html#sample-cs)
 - [github(gsi-cyberjapan/gsitiles-cesium)](https://github.com/gsi-cyberjapan/gsitiles-cesium/blob/gh-pages/index.html) 
-- 国土交通 国土地理院 様
+- 国土交通省 国土地理院 様
 
 #### [Cesiumで地理院タイル（地図/DEM）を使うライブラリ作成しました。](https://qiita.com/kochizufan/items/b338ac856425c0fa925b)
  - @kochizufan 様 
